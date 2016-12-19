@@ -1,7 +1,5 @@
 # NeuralNetwork - Library implementing a neural network 
 
-NeuralNetwork.py is a library that defines a NeuralNetwork class using numpy. Training is done via backpropagation. 
+A library that defines a NeuralNetwork class is implemented using python numpy in <a href="NeuralNetwork.py">NeuralNetwork.py</a>. Training is done via backpropagation. 
 
-NeuralNetwork-demo.ipynb demonstrates the library by training a neural network to recognize handwritten digits (the MNIST dataset).
-
-
+The NeuralNetwork class is demonstrated by training on handwritten digits (the MNIST dataset) in <a href="NeuralNetwork-RecognizingHandwrittenDigitsDemo.ipynb"> NeuralNetwork-RecognizingHandwrittenDigitsDemo.ipynb <a>.
